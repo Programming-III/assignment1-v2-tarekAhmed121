@@ -6,7 +6,14 @@ using namespace std;
 //#write Instructor class here
 
 
-
+public class Instructor {
+    private:
+    string department;
+    int experienceYears;
+    
+    public:
+    display();
+};
 
 
 
